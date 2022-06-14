@@ -1,0 +1,7143 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/affine.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/base.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/bufferpool.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/core.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda_stream_accessor.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda_types.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvstd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvstd.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/directx.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/eigen.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/fast_math.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ippasync.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/mat.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/mat.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/matx.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/neon_utils.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ocl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ocl_genbase.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/opengl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/operations.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/optim.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ovx.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/persistence.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/private.cuda.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/private.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ptr.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/saturate.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/softfloat.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/sse_utils.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/traits.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/types.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utility.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/va_intel.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/version.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/vsx_utils.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/wimage.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/core_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cv_cpu_dispatch.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cv_cpu_helper.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvdef.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/types_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/hal.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_cpp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_neon.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_sse.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_vsx.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/interface.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/configuration.private.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/filesystem.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/filesystem.private.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/lock.private.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/logger.defines.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/logger.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/trace.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/trace.private.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/flann.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/flann_base.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/miniflann.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/all_indices.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/allocator.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/any.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/autotuned_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/composite_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/config.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/defines.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dist.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dummy.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dynamic_bitset.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/general.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/ground_truth.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/hdf5.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/heap.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/index_testing.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kdtree_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kdtree_single_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kmeans_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/linear_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/logger.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/lsh_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/lsh_table.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/matrix.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/nn_index.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/object_factory.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/params.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/random.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/result_set.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/sampling.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/saving.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/simplex_downhill.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/timer.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/imgproc.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/imgproc_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/types_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/hal/hal.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/hal/interface.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/detail/distortion_model.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml/ml.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml/ml.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/objdetect_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/cuda.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/photo.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/photo_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/include/opencv2/video.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/background_segm.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/tracking.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/video.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/tracking_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/attr_value.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/function.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/graph.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/op_def.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor_shape.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/types.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/versions.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/caffe/opencv-caffe.pb.cc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/attr_value.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/function.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/graph.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/op_def.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor_shape.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/types.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/versions.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/misc/caffe/opencv-caffe.pb.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/all_layers.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dict.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dnn.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dnn.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/layer.details.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/layer.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/shape_utils.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/imgcodecs.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/imgcodecs_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/ios.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/emdL1.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/hist_cost.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape_distance.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape_transformer.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/videoio.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/cap_ios.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/videoio_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui/highgui_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/include/opencv2/superres.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/include/opencv2/superres/optical_flow.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/include/opencv2/features2d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/include/opencv2/features2d/features2d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d/calib3d_c.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/warpers.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/autocalib.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/blenders.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/camera.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/matchers.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/timelapsers.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/util.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/warpers.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/deblurring.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/fast_marching.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/fast_marching_inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/frame_source.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/global_motion.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/inpainting.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/log.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/motion_core.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/motion_stabilizing.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/optical_flow.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/outlier_rejection.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/ring_buffer.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/stabilizer.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/world/include/opencv2/world.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/version_string.inc",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/algorithm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/alloc.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/arithm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/array.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/command_line_parser.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/conjugate_gradient.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/convert.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/copy.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/cuda_gpu_mat.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/cuda_host_mem.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/cuda_info.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/cuda_stream.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/datastructs.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/directx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/downhill_simplex.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/dxt.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/gl_core_3_1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/glob.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/hal_internal.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/kmeans.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/lapack.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/lda.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/logger.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/lpsolver.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/mathfuncs.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/mathfuncs_core.dispatch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/matmul.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/matop.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/matrix.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/matrix_decomp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/merge.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/ocl.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_clamdblas.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_clamdfft.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_core.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opengl.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/out.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/ovx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/parallel.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/parallel_pthreads.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/pca.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/persistence.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/rand.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/softfloat.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/split.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/stat.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/stat.dispatch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/stl.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/system.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/tables.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/trace.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/types.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/umatrix.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/utils/filesystem.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/va_intel.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/arithm.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/convert.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/copymakeborder.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/copyset.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/cvtclr_dx.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/fft.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/flip.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/gemm.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/halfconvert.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/inrange.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/intel_gemm.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/lut.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/meanstddev.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/minmaxloc.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/mixchannels.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/mulspectrums.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/normalize.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/reduce.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/reduce2.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/repeat.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/set_identity.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/split_merge.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/transpose.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/arithm_core.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/arithm_simd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/bufferpool.impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/convert.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/directx.inc.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/gl_core_3_1.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/hal_internal.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/hal_replacement.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/intel_gpu_gemm.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/mathfuncs_core.simd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/ocl_deprecated.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_clamdblas_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_clamdfft_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_core_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_core_static_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_gl_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_gl_static_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/runtime_common.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/stat.simd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.sse2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/src/flann.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/src/miniflann.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/flann/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/accum.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/accum.dispatch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/approx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/blend.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/canny.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/clahe.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/color.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/colormap.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/connectedcomponents.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/contours.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/convhull.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/corner.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/cornersubpix.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/demosaicing.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/deriv.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/distransform.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/drawing.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/emd.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/featureselect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/filter.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/floodfill.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/gabor.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/generalized_hough.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/geometry.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/grabcut.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/hershey_fonts.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/histogram.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/hough.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/intersection.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/linefit.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/lsd.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/matchcontours.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/min_enclosing_triangle.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/moments.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/morph.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/phasecorr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/pyramids.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/resize.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/rotcalipers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/samplers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/segmentation.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/shapedescr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/smooth.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/spatialgradient.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/subdivision2d.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/sumpixels.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/tables.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/templmatch.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/thresh.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/utils.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/accumulate.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/bilateral.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/blend_linear.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/boxFilter.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/boxFilter3x3.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/calc_back_project.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/canny.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/clahe.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/corner.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/covardata.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/cvtcolor.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filter2D.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filter2DSmall.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSepCol.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSepRow.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSep_singlePass.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSmall.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gaussianBlur3x3.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gaussianBlur5x5.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gftt.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/histogram.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/hough_lines.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/integral_sum.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/laplacian3.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/laplacian5.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/linearPolar.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/logPolar.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/match_template.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/medianFilter.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/moments.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/morph.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/morph3x3.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/precornerdetect.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyr_down.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyr_up.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyramid_up.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/remap.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/resize.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/sepFilter3x3.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/threshold.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_affine.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_perspective.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_transform.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/accum.simd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/corner.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/filter.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/filterengine.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/fixedpoint.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/gcgraph.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/hal_replacement.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/resize.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/_geom.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/accum.sse2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/ann_mlp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/boost.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/data.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/em.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/gbt.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/inner_functions.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/kdtree.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/knearest.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/lr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/nbayes.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/rtrees.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/svm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/svmsgd.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/testset.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/tree.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/kdtree.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/ml/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect_convert.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/detection_based_tracker.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/haar.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/hog.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/opencl/cascadedetect.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/opencl/objdetect_hog.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/haar.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/align.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/calibrate.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/contrast_preserve.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/denoise_tvl1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/denoising.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/denoising.cuda.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/hdr_common.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/inpaint.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/merge.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/npr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning_impl.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/tonemap.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/opencl/nlmeans.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/arrays.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/contrast_preserve.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_invoker.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_opencl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/hdr_common.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/npr.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/bgfg_KNN.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/bgfg_gaussmix2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/camshift.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/compat_video.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/ecc.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/kalman.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/lkpyramid.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/optflowgf.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/tvl1flow.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/opencl/bgfg_mog2.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/opencl/optical_flow_farneback.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/opencl/optical_flow_tvl1.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/opencl/pyrlk.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/lkpyramid.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/video/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_importer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_io.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_shrinker.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_importer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_io.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/dnn.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/halide_scheduler.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/init.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/batch_norm_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/blank_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/concat_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/convolution_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/crop_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/detection_output_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/elementwise_layers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/eltwise_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/flatten_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/fully_connected_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/lrn_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/max_unpooling_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/mvn_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/normalize_bbox_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/padding_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/permute_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/pooling_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/prior_box_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/proposal_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/recurrent_layers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/region_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/reorg_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/reshape_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/resize_nearest_neighbor_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/scale_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/shift_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/slice_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/softmax_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/split_layer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/nms.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/common.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/math_functions.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_conv_spatial.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_inner_product.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_lrn.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_pool.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_softmax.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/op_halide.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_importer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_io.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THDiskFile.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFile.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THGeneral.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/torch_importer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/activations.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/batchnorm.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/col2im.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/concat.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/conv_layer_spatial.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/conv_spatial_helper.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/detection_output.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/dummy.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/gemm_image.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/im2col.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/lrn.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/math.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/matvec_mul.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/ocl4dnn_lrn.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/ocl4dnn_pooling.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/permute.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/pooling.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/prior_box.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/region.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/reorg.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/softmax.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/opencl/softmax_loss.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_io.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/caffe/glog_emulator.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_io.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/halide_scheduler.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.simd.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/nms.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/common.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/default_kernel_config.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/math_functions.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/ocl4dnn.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/op_halide.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_io.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THDiskFile.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFile.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFilePrivate.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/dnn/src/torch/THGeneral.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/loadsave.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/utils.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/utils.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_base.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_bmp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_exr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdal.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdcm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_hdr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg2000.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pam.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_png.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pxm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_sunras.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_tiff.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_webp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/bitstrm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/rgbe.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/exif.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_base.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_bmp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_exr.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdal.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdcm.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_hdr.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg2000.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pam.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_png.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pxm.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_sunras.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_tiff.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_webp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmts.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/bitstrm.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/rgbe.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgcodecs/src/exif.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/aff_trans.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/emdL1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/haus_dis.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/hist_cost.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/sc_dis.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/tps_trans.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/emdL1_def.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/shape/src/scd_def.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_images.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_mjpeg_encoder.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_mjpeg_decoder.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_dc1394_v2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_v4l.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_ffmpeg.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videoio/src/cap_ffmpeg_impl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/src/window.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/src/roiSelector.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/src/window_gtk.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/highgui/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/btv_l1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/btv_l1_cuda.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/frame_source.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/input_array_utility.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/optical_flow.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/super_resolution.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/opencl/superres_btvl1.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/input_array_utility.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/superres/src/ring_buffer.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/agast.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/agast_score.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/akaze.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/bagofwords.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/blobdetector.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/brisk.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/draw.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/dynamic.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/evaluation.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/fast.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/fast_score.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/feature2d.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/gftt.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEFeatures.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEFeatures.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/fed.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/nldiffusion_functions.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/keypoint.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/matchers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/mser.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/orb.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/opencl/akaze.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/opencl/brute_force_match.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/opencl/fast.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/opencl/orb.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/agast_score.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/fast.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/fast_score.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEConfig.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEFeatures.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEConfig.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEFeatures.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/TEvolution.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/fed.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/nldiffusion_functions.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/kaze/utils.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/ap3p.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/calibinit.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/calibration.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/checkchessboard.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/circlesgrid.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/compat_ptsetreg.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/compat_stereo.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/dls.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/epnp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/fisheye.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/five-point.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/fundam.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/homography_decomp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/levmarq.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/p3p.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/polynom_solver.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/posit.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/ptsetreg.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/quadsubpix.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/rho.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/solvepnp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/stereobm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/stereosgbm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/triangulate.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/upnp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/opencl/stereobm.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/circlesgrid.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/fisheye.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/ap3p.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/dls.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/epnp.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/p3p.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/polynom_solver.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/rho.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/calib3d/src/upnp.h",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/autocalib.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/blenders.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/camera.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/exposure_compensate.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/matchers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/motion_estimators.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/seam_finders.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/stitcher.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/timelapsers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/util.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/warpers.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/warpers_cuda.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/opencl/multibandblend.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/opencl/warpers.cl",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/stitching/src/util_log.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/deblurring.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/fast_marching.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/frame_source.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/global_motion.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/inpainting.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/log.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/motion_stabilizing.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/optical_flow.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/outlier_rejection.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/stabilizer.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/wobble_suppression.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/clp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/videostab/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/world/src/world_init.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/world/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/convert.sse4_1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.sse4_1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/resize.sse4_1.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/stat.sse4_2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/convert.fp16.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.avx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/corner.avx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/accum.avx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/objdetect/src/haar.avx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/layers/layers_common.avx.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/core/src/convert.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/stat.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/filter.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/resize.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/layers/layers_common.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/modules/features2d/src/fast.avx2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_world",
+				"Module"
+			]
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/cvconfig.h"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.cpp.rule"
+		},
+		{
+			"file" : "/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_world",
+			"Module"
+		],
+		"name" : "opencv_world"
+	}
+}

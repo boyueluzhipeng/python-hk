@@ -1,0 +1,3169 @@
+# Target labels
+ Main
+ opencv_world
+ Module
+# Source files and their labels
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/affine.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/base.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/bufferpool.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/core.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda_stream_accessor.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cuda_types.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvstd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvstd.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/directx.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/eigen.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/fast_math.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ippasync.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/mat.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/mat.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/matx.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/neon_utils.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ocl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ocl_genbase.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/opengl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/operations.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/optim.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ovx.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/persistence.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/private.cuda.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/private.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/ptr.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/saturate.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/softfloat.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/sse_utils.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/traits.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/types.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utility.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/va_intel.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/version.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/vsx_utils.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/wimage.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/core_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cv_cpu_helper.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/cvdef.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/types_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/hal.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_cpp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_neon.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_sse.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/intrin_vsx.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/hal/interface.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/configuration.private.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/filesystem.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/filesystem.private.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/lock.private.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/logger.defines.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/logger.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/trace.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/include/opencv2/core/utils/trace.private.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/flann.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/flann_base.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/miniflann.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/all_indices.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/allocator.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/any.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/autotuned_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/composite_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/config.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/defines.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dist.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dummy.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/general.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/ground_truth.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/hdf5.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/heap.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/index_testing.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kdtree_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/kmeans_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/linear_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/logger.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/lsh_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/lsh_table.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/matrix.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/nn_index.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/object_factory.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/params.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/random.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/result_set.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/sampling.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/saving.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/simplex_downhill.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/include/opencv2/flann/timer.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/imgproc_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/types_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/hal/hal.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/hal/interface.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/include/opencv2/imgproc/detail/distortion_model.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml/ml.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/include/opencv2/ml/ml.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/objdetect.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/include/opencv2/objdetect/objdetect_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/cuda.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/photo.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/include/opencv2/photo/photo_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/include/opencv2/video.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/background_segm.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/tracking.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/video.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/include/opencv2/video/tracking_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/attr_value.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/function.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/graph.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/op_def.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor_shape.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/types.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/versions.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/caffe/opencv-caffe.pb.cc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/attr_value.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/function.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/graph.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/op_def.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/tensor_shape.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/types.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/tensorflow/versions.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/misc/caffe/opencv-caffe.pb.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/all_layers.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dict.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dnn.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/layer.details.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/layer.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/include/opencv2/dnn/shape_utils.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/imgcodecs.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/imgcodecs_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/include/opencv2/imgcodecs/ios.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/emdL1.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/hist_cost.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape_distance.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/include/opencv2/shape/shape_transformer.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/videoio.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/cap_ios.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/include/opencv2/videoio/videoio_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui/highgui.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/include/opencv2/highgui/highgui_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/include/opencv2/superres.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/include/opencv2/superres/optical_flow.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/include/opencv2/features2d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/include/opencv2/features2d/features2d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d/calib3d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/include/opencv2/calib3d/calib3d_c.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/warpers.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/autocalib.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/timelapsers.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/deblurring.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/fast_marching.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/fast_marching_inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/frame_source.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/global_motion.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/inpainting.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/log.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/motion_core.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/motion_stabilizing.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/optical_flow.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/outlier_rejection.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/ring_buffer.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/stabilizer.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/world/include/opencv2/world.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/version_string.inc
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/algorithm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/alloc.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/arithm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/array.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/command_line_parser.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/conjugate_gradient.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/convert.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/copy.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/cuda_gpu_mat.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/cuda_host_mem.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/cuda_info.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/cuda_stream.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/datastructs.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/directx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/downhill_simplex.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/dxt.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/gl_core_3_1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/glob.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/hal_internal.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/kmeans.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/lapack.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/lda.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/logger.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/lpsolver.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/mathfuncs.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/mathfuncs_core.dispatch.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/matmul.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/matop.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/matrix.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/matrix_decomp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/merge.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/ocl.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_clamdblas.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_clamdfft.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/opencl_core.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opengl.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/out.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/ovx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/parallel.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/parallel_pthreads.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/pca.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/persistence.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/rand.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/softfloat.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/split.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/stat.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/stat.dispatch.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/stl.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/system.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/tables.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/trace.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/types.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/umatrix.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/utils/filesystem.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/va_intel.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/arithm.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/convert.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/copymakeborder.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/copyset.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/cvtclr_dx.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/fft.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/flip.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/gemm.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/halfconvert.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/inrange.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/intel_gemm.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/lut.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/meanstddev.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/minmaxloc.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/mixchannels.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/mulspectrums.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/normalize.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/reduce.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/reduce2.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/repeat.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/set_identity.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/split_merge.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/transpose.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/arithm_core.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/arithm_simd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/bufferpool.impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/convert.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/directx.inc.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/gl_core_3_1.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/hal_internal.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/hal_replacement.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/intel_gpu_gemm.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/mathfuncs_core.simd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/ocl_deprecated.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_clamdblas_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_clamdfft_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_core_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_core_static_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_gl_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/autogenerated/opencl_gl_static_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/opencl/runtime/runtime_common.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/stat.simd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.sse2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/src/flann.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/src/miniflann.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/flann/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/accum.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/accum.dispatch.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/approx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/blend.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/canny.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/clahe.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/color.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/colormap.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/connectedcomponents.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/contours.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/convhull.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/corner.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/cornersubpix.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/demosaicing.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/deriv.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/distransform.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/drawing.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/emd.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/featureselect.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/filter.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/floodfill.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/gabor.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/generalized_hough.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/geometry.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/grabcut.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/hershey_fonts.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/histogram.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/hough.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/intersection.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/linefit.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/lsd.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/main.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/matchcontours.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/min_enclosing_triangle.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/moments.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/morph.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/phasecorr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/pyramids.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/resize.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/rotcalipers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/samplers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/segmentation.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/shapedescr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/smooth.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/spatialgradient.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/subdivision2d.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/sumpixels.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/tables.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/templmatch.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/thresh.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/utils.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/accumulate.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/bilateral.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/blend_linear.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/boxFilter.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/boxFilter3x3.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/calc_back_project.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/canny.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/clahe.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/corner.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/covardata.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/cvtcolor.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filter2D.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filter2DSmall.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSepCol.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSepRow.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSep_singlePass.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/filterSmall.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gaussianBlur3x3.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gaussianBlur5x5.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/gftt.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/histogram.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/hough_lines.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/integral_sum.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/laplacian3.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/laplacian5.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/linearPolar.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/logPolar.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/match_template.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/medianFilter.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/moments.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/morph.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/morph3x3.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/precornerdetect.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyr_down.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyr_up.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/pyramid_up.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/remap.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/resize.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/sepFilter3x3.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/threshold.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_affine.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_perspective.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/opencl/warp_transform.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/accum.simd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/corner.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/filter.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/filterengine.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/fixedpoint.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/gcgraph.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/hal_replacement.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/resize.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/_geom.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/accum.sse2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/ann_mlp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/boost.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/data.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/em.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/gbt.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/inner_functions.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/kdtree.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/knearest.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/lr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/nbayes.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/rtrees.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/svm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/svmsgd.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/testset.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/tree.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/kdtree.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/ml/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect_convert.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/detection_based_tracker.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/haar.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/hog.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/main.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/opencl/cascadedetect.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/opencl/objdetect_hog.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/cascadedetect.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/haar.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/align.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/calibrate.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/contrast_preserve.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/denoise_tvl1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/denoising.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/denoising.cuda.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/hdr_common.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/inpaint.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/merge.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/npr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning_impl.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/tonemap.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/opencl/nlmeans.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/arrays.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/contrast_preserve.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_invoker.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_invoker_commons.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_denoising_opencl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/fast_nlmeans_multi_denoising_invoker.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/hdr_common.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/npr.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/photo/src/seamless_cloning.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/bgfg_KNN.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/bgfg_gaussmix2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/camshift.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/compat_video.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/ecc.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/kalman.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/lkpyramid.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/optflowgf.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/tvl1flow.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/opencl/bgfg_mog2.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/opencl/optical_flow_farneback.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/opencl/optical_flow_tvl1.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/opencl/pyrlk.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/lkpyramid.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/video/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_importer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_io.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_shrinker.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_importer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_io.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/dnn.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/halide_scheduler.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/init.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/batch_norm_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/blank_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/concat_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/convolution_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/crop_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/detection_output_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/elementwise_layers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/eltwise_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/flatten_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/fully_connected_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/lrn_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/max_unpooling_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/mvn_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/normalize_bbox_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/padding_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/permute_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/pooling_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/prior_box_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/proposal_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/recurrent_layers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/region_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/reorg_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/reshape_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/resize_nearest_neighbor_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/scale_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/shift_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/slice_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/softmax_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/split_layer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/nms.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/common.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/math_functions.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_conv_spatial.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_inner_product.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_lrn.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_pool.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/src/ocl4dnn_softmax.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/op_halide.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_importer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_io.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THDiskFile.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFile.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THGeneral.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/torch_importer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/activations.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/batchnorm.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/col2im.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/concat.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/conv_layer_spatial.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/conv_spatial_helper.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/detection_output.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/dummy.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/gemm_image.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/im2col.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/lrn.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/math.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/matvec_mul.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/ocl4dnn_lrn.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/ocl4dnn_pooling.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/permute.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/pooling.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/prior_box.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/region.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/reorg.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/softmax.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/opencl/softmax_loss.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/caffe/caffe_io.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/caffe/glog_emulator.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/darknet/darknet_io.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/halide_scheduler.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/layers/layers_common.simd.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/nms.inl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/common.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/default_kernel_config.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/math_functions.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/ocl4dnn/include/ocl4dnn.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/op_halide.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/tensorflow/tf_io.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THDiskFile.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFile.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THFilePrivate.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/dnn/src/torch/THGeneral.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/loadsave.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/utils.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/utils.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_base.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_bmp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_exr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdal.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdcm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_hdr.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg2000.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pam.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_png.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pxm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_sunras.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_tiff.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_webp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/bitstrm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/rgbe.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/exif.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_base.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_bmp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_exr.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdal.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_gdcm.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_hdr.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_jpeg2000.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pam.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_png.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_pxm.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_sunras.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_tiff.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmt_webp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/grfmts.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/bitstrm.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/rgbe.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgcodecs/src/exif.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/aff_trans.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/emdL1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/haus_dis.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/hist_cost.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/sc_dis.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/tps_trans.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/emdL1_def.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/shape/src/scd_def.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_images.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_mjpeg_encoder.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_mjpeg_decoder.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_dc1394_v2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_v4l.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_ffmpeg.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videoio/src/cap_ffmpeg_impl.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/src/window.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/src/roiSelector.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/src/window_gtk.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/highgui/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/btv_l1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/btv_l1_cuda.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/frame_source.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/input_array_utility.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/optical_flow.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/super_resolution.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/opencl/superres_btvl1.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/input_array_utility.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/superres/src/ring_buffer.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/agast.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/agast_score.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/akaze.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/bagofwords.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/blobdetector.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/brisk.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/draw.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/dynamic.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/evaluation.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/fast.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/fast_score.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/feature2d.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/gftt.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEFeatures.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEFeatures.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/fed.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/nldiffusion_functions.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/keypoint.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/main.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/matchers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/mser.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/orb.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/opencl/akaze.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/opencl/brute_force_match.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/opencl/fast.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/opencl/orb.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/agast_score.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/fast.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/fast_score.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEConfig.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/AKAZEFeatures.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEConfig.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/KAZEFeatures.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/TEvolution.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/fed.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/nldiffusion_functions.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/kaze/utils.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/ap3p.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/calibinit.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/calibration.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/checkchessboard.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/circlesgrid.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/compat_ptsetreg.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/compat_stereo.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/dls.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/epnp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/fisheye.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/five-point.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/fundam.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/homography_decomp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/levmarq.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/main.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/p3p.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/polynom_solver.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/posit.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/ptsetreg.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/quadsubpix.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/rho.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/solvepnp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/stereobm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/stereosgbm.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/triangulate.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/upnp.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/opencl/stereobm.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/circlesgrid.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/fisheye.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/ap3p.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/dls.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/epnp.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/p3p.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/polynom_solver.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/rho.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/calib3d/src/upnp.h
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/autocalib.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/blenders.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/camera.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/exposure_compensate.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/matchers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/motion_estimators.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/seam_finders.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/stitcher.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/timelapsers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/util.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/warpers.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/warpers_cuda.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/opencl/multibandblend.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/opencl/warpers.cl
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/stitching/src/util_log.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/deblurring.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/fast_marching.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/frame_source.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/global_motion.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/inpainting.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/log.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/motion_stabilizing.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/optical_flow.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/outlier_rejection.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/stabilizer.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/wobble_suppression.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/clp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/videostab/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/world/src/world_init.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/world/src/precomp.hpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/convert.sse4_1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.sse4_1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/resize.sse4_1.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/stat.sse4_2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/convert.fp16.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.avx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/corner.avx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/accum.avx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/objdetect/src/haar.avx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/layers/layers_common.avx.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/core/src/convert.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/mathfuncs_core.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/stat.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/filter.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/imgwarp.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/resize.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/imgproc/src/undistort.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/modules/world/layers/layers_common.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/modules/features2d/src/fast.avx2.cpp
+ Main
+ opencv_world
+ Module
+/root/demo/opencv-3.4.0/build/cvconfig.h
+/root/demo/opencv-3.4.0/build/opencv2/opencv_modules.hpp
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_core.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_imgproc.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_objdetect.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_photo.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_video.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_dnn.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_superres.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_features2d.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_calib3d.cpp.rule
+/root/demo/opencv-3.4.0/build/modules/world/opencl_kernels_stitching.cpp.rule

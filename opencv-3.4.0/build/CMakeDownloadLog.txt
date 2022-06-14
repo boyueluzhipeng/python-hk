@@ -1,0 +1,16 @@
+use_cache "/root/demo/opencv-3.4.0/.cache"
+do_unpack "ippicv_2017u3_lnx_intel64_general_20170822.tgz" "4e0352ce96473837b1d671ce87f17359" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dfe3162c237af211e98b8960018b564bc209261d/ippicv/ippicv_2017u3_lnx_intel64_general_20170822.tgz" "/root/demo/opencv-3.4.0/build/3rdparty/ippicv"
+#check_md5 "/root/demo/opencv-3.4.0/.cache/ippicv/4e0352ce96473837b1d671ce87f17359-ippicv_2017u3_lnx_intel64_general_20170822.tgz"
+#mismatch_md5 "/root/demo/opencv-3.4.0/.cache/ippicv/4e0352ce96473837b1d671ce87f17359-ippicv_2017u3_lnx_intel64_general_20170822.tgz" "d41d8cd98f00b204e9800998ecf8427e"
+#delete "/root/demo/opencv-3.4.0/.cache/ippicv/4e0352ce96473837b1d671ce87f17359-ippicv_2017u3_lnx_intel64_general_20170822.tgz"
+#cmake_download "/root/demo/opencv-3.4.0/.cache/ippicv/4e0352ce96473837b1d671ce87f17359-ippicv_2017u3_lnx_intel64_general_20170822.tgz" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/dfe3162c237af211e98b8960018b564bc209261d/ippicv/ippicv_2017u3_lnx_intel64_general_20170822.tgz"
+#   Trying 0.0.0.0...
+# TCP_NODELAY set
+# connect to 0.0.0.0 port 443 failed: Connection refused
+#   Trying ::...
+# TCP_NODELAY set
+# connect to :: port 443 failed: Connection refused
+# Failed to connect to raw.githubusercontent.com port 443: Connection refused
+# Closing connection 0
+# 
+

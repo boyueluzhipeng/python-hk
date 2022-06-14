@@ -1,0 +1,86 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_emknearestkmeans.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_emknearestkmeans.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_gbttest.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_gbttest.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_lr.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_lr.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_main.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_main.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_mltests.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_mltests.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_mltests2.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_mltests2.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_save_load.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_save_load.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_svmsgd.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_svmsgd.cpp.o"
+  "/root/demo/opencv-3.4.0/modules/ml/test/test_svmtrainauto.cpp" "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_test_ml.dir/__/ml/test/test_svmtrainauto.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "HAVE_PROTOBUF=1"
+  "HAVE_WEBP"
+  "OPENCV_WITH_ITT=1"
+  "_USE_MATH_DEFINES"
+  "__OPENCV_BUILD=1"
+  "__OPENCV_TESTS=1"
+  "__STDC_CONSTANT_MACROS"
+  "__STDC_FORMAT_MACROS"
+  "__STDC_LIMIT_MACROS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../3rdparty/libwebp/src"
+  "."
+  "../modules/ts/include"
+  "../modules/ml/include"
+  "../modules/imgcodecs/include"
+  "../modules/videoio/include"
+  "../modules/core/include"
+  "../modules/flann/include"
+  "../modules/imgproc/include"
+  "../modules/objdetect/include"
+  "../modules/photo/include"
+  "../modules/video/include"
+  "../modules/dnn/include"
+  "../modules/shape/include"
+  "../modules/highgui/include"
+  "../modules/superres/include"
+  "../modules/features2d/include"
+  "../modules/calib3d/include"
+  "../modules/stitching/include"
+  "../modules/videostab/include"
+  "../modules/world/include"
+  "../modules/ml/test"
+  "../modules/dnn/src/ocl4dnn/include"
+  "../3rdparty/include/opencl/1.2"
+  "/usr/include/x86_64-linux-gnu"
+  "../3rdparty/openexr/Half"
+  "../3rdparty/openexr/Iex"
+  "../3rdparty/openexr/IlmThread"
+  "../3rdparty/openexr/Imath"
+  "../3rdparty/openexr/IlmImf"
+  "/usr/include/gtk-2.0"
+  "/usr/lib/x86_64-linux-gnu/gtk-2.0/include"
+  "/usr/include/gio-unix-2.0"
+  "/usr/include/cairo"
+  "/usr/include/pango-1.0"
+  "/usr/include/atk-1.0"
+  "/usr/include/pixman-1"
+  "/usr/include/gdk-pixbuf-2.0"
+  "/usr/include/libpng16"
+  "/usr/include/harfbuzz"
+  "/usr/include/glib-2.0"
+  "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
+  "/usr/include/freetype2"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/root/demo/opencv-3.4.0/build/modules/ts/CMakeFiles/opencv_ts.dir/DependInfo.cmake"
+  "/root/demo/opencv-3.4.0/build/modules/world/CMakeFiles/opencv_world.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
