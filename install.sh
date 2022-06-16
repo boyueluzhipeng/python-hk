@@ -28,9 +28,6 @@ apt-get install libswscale-dev -y
 # 安装libgtk-x11-2.0
 apt-get install libgtk-3-dev -y
 apt install libgtk2.0-0 -y
-# 将/usr/lib/hklib 和 /usr/lib/hklib/HCNetSDKCom 写入到/etc/profile中
-echo "export LD_LIBRARY_PATH=/usr/lib/hklib:/usr/lib/hklib/HCNetSDKCom" >> /etc/profile
-source /etc/profile
 # 安装numpy
 apt-get install python3-numpy -y
 # 安装matplotlib
